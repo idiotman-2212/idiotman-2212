@@ -11,12 +11,16 @@ I’m a **Java Backend Developer** passionate about building robust and optimize
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/-RESTful%20API-000000?style=flat&logo=rest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+![JSP-Servlet](https://img.shields.io/badge/-JSP%20Servlet-007396?style=flat&logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
 ---
 
 ## About Me
-- 🎓 **Education**: Posts and Telecommunications Institute of Technology, HCMC (Software Engineering)
-- 💻 **Bootcamp코드**: Cybersoft - Professional Java Backend Developer (Score: 9.1/10)
+- 🎓 **Education**: Posts and Telecommunications Institute of Technology, HCMC - PTITHCM (Software Engineering)
+- 💻 **Accademy**: Cybersoft - Professional Java Backend Developer
 - 🌍 **Hometown**: Tuy Phuoc, Binh Dinh
 - 📍 **Location**: Thu Duc City, Ho Chi Minh City, Vietnam
 - 📧 **Email**: [chdien22@gmail.com](mailto:chdien22@gmail.com)
