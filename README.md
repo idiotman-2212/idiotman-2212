@@ -16,7 +16,7 @@ Mình là một **Java Backend Developer** đam mê xây dựng các hệ thốn
 - 🌍 **Quê quán**: Tuy Phước, Bình Định
 - 📍 **Địa chỉ**: TP. Thủ Đức, TP.HCM
 - 📧 **Email**: [chdien22@gmail.com](mailto:chdien22@gmail.com)
-- 🔗 **LinkedIn**: [Diễn Châu]((https://www.linkedin.com/in/chauhuydien22122002/))
+- 🔗 **LinkedIn**: [Diễn Châu](https://www.linkedin.com/in/chauhuydien22122002/)
 
 ---
 
