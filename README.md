@@ -1,6 +1,4 @@
-# About me
-<iframe src="https://drive.google.com/file/d/1P8gDD5DWZ_DY-bDRnQwgHl_HZ5njtOj6/view?usp=sharing" width="100%" height="500px"> </iframe>
-# Xin chào, mình là Châu Huy Điện! 👋
+# Xin chào, mình là Châu Huy Diễn! 👋
 
 Mình là một **Java Backend Developer** đam mê xây dựng các hệ thống mạnh mẽ và tối ưu. Với nền tảng kiến thức vững chắc về lập trình Java cùng kinh nghiệm thực tế từ các dự án, mình luôn sẵn sàng học hỏi, sáng tạo và đóng góp vào các giải pháp công nghệ chất lượng cao.
 
@@ -62,7 +60,12 @@ Mình là một **Java Backend Developer** đam mê xây dựng các hệ thốn
 ## Liên hệ với mình
 - 📞 **SĐT**: 0326 917 158  
 - ✉️ **Email**: [chdien22@gmail.com](mailto:chdien22@gmail.com)  
-- 🌐 **GitHub**: [idiotman-2212](https://github.com/idiotman-2212)  
+- 🌐 **GitHub**: [idiotman-2212](https://github.com/idiotman-2212)
+
+---
+
+## CV
+https://drive.google.com/file/d/1P8gDD5DWZ_DY-bDRnQwgHl_HZ5njtOj6/view?usp=sharing
 
 > *"Code không chỉ là công việc, mà còn là đam mê!"*
 
