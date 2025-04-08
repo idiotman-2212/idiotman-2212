@@ -12,11 +12,11 @@ Mình là một **Java Backend Developer** đam mê xây dựng các hệ thốn
 
 ## Về mình
 - 🎓 **Học vấn**: Học viện Công nghệ Bưu chính Viễn thông TP.HCM (Công nghệ Phần mềm)
-- 💻 **Bootcamp**: Cybersoft - Professional Java Backend Developer (9.1/10)
+- 💻 **Bootcamp**: Cybersoft - Professional Java Backend Developer
 - 🌍 **Quê quán**: Tuy Phước, Bình Định
 - 📍 **Địa chỉ**: TP. Thủ Đức, TP.HCM
 - 📧 **Email**: [chdien22@gmail.com](mailto:chdien22@gmail.com)
-- 🔗 **LinkedIn**: [Diễn Châu]([http://chauhuydien.id.vn/](https://www.linkedin.com/in/chauhuydien22122002/))
+- 🔗 **LinkedIn**: [Diễn Châu]((https://www.linkedin.com/in/chauhuydien22122002/))
 
 ---
 
