@@ -2,7 +2,11 @@
 
 Mình là một **Java Backend Developer** đam mê xây dựng các hệ thống mạnh mẽ và tối ưu. Với nền tảng kiến thức vững chắc về lập trình Java cùng kinh nghiệm thực tế từ các dự án, mình luôn sẵn sàng học hỏi, sáng tạo và đóng góp vào các giải pháp công nghệ chất lượng cao.
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -12,7 +16,7 @@ Mình là một **Java Backend Developer** đam mê xây dựng các hệ thốn
 - 🌍 **Quê quán**: Tuy Phước, Bình Định
 - 📍 **Địa chỉ**: TP. Thủ Đức, TP.HCM
 - 📧 **Email**: [chdien22@gmail.com](mailto:chdien22@gmail.com)
-- 🔗 **Website**: [chauhuydien.id.vn](http://chauhuydien.id.vn/)
+- 🔗 **LinkedIn**: [Diễn Châu]([http://chauhuydien.id.vn/](https://www.linkedin.com/in/chauhuydien22122002/))
 
 ---
 
@@ -58,19 +62,12 @@ Mình là một **Java Backend Developer** đam mê xây dựng các hệ thốn
 ---
 
 ## Liên hệ với mình
-- 📞 **SĐT**: 0326 917 158  
 - ✉️ **Email**: [chdien22@gmail.com](mailto:chdien22@gmail.com)  
 - 🌐 **GitHub**: [idiotman-2212](https://github.com/idiotman-2212)
+- 🔗 **LinkedIn**: [Diễn Châu]([http://chauhuydien.id.vn/](https://www.linkedin.com/in/chauhuydien22122002/))
 
 ---
 
 ## CV
 https://drive.google.com/file/d/1P8gDD5DWZ_DY-bDRnQwgHl_HZ5njtOj6/view?usp=sharing
-
-> *"Code không chỉ là công việc, mà còn là đam mê!"*
-
----
-
-*Profile này được cập nhật lần cuối vào ngày 08/04/2025.*
-
 
