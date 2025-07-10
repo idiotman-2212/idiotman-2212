@@ -57,9 +57,11 @@ I’m a **Java Backend Developer** passionate about building robust and optimize
 ---
 
 ## Work Experience
-### Intern - Teso Global Co., Ltd (11/2024 - 02/2025)
-- Assisted in designing and implementing backend features.  
-- Researched and applied new technologies.
+### HANATOUR JAPAN SYSTEM VIETNAM CO.,LTD (Feb 2025 - May 2025)
+- Participated in the development, maintenance and optimization of software applications.
+- Design and implement features according to project plans.
+- Support testing and debugging to ensure system stability.
+- Research and apply new technologies to enhance project development
 
 ---
 
