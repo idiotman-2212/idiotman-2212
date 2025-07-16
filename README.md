@@ -19,7 +19,7 @@ I’m a **Java Backend Developer** passionate about building robust and optimize
 ---
 
 ## About Me
-- 🎓 **Education**: Posts and Telecommunications Institute of Technology, HCMC - PTITHCM (Software Engineering)
+- 🎓 **Education**: Posts and Telecommunications Institute of Technology, HCMC - PTIT (Software Engineering)
 - 💻 **Accademy**: Cybersoft - Professional Java Backend Developer
 - 🌍 **Hometown**: Tuy Phuoc, Binh Dinh
 - 📍 **Location**: Thu Duc City, Ho Chi Minh City, Vietnam
@@ -39,7 +39,7 @@ I’m a **Java Backend Developer** passionate about building robust and optimize
 ---
 
 ## Featured Projects
-### 1. Bus Ticket Booking (Full-Stack)
+### 1. Bus Ticket Booking
 - **Description**: An online bus ticket booking system with ticket management, trip scheduling, driver management, and information lookup.  
 - **Technologies**: ReactJS, Material UI (Frontend) | Java, Spring Boot, MySQL (Backend)  
 - **Links**: [GitHub](https://github.com/idiotman-2212/BusTicketBooking-FullStack) | [Demo](http://chauhuydien.id.vn/)
